@@ -1,0 +1,12 @@
+{
+  "db": "test",
+  "username": "Christophe",
+  "password": "KTS_cl0wnerie",
+  "options": {
+    "dialect": "mssql",
+    "host": "DESKTOP-8111HL7",
+    "dialectOptions": {
+      "domain": "DESKTOP-8111HL7"
+    }
+  }
+}

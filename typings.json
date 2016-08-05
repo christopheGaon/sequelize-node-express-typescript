@@ -1,0 +1,19 @@
+{
+  "globalDependencies": {
+    "bluebird": "registry:dt/bluebird#2.0.0+20160701023356",
+    "body-parser": "registry:dt/body-parser#0.0.0+20160619023215",
+    "chai": "registry:dt/chai#3.4.0+20160601211834",
+    "express": "registry:dt/express#4.0.0+20160708185218",
+    "express-serve-static-core": "registry:dt/express-serve-static-core#4.0.0+20160715232503",
+    "lodash": "registry:dt/lodash#4.14.0+20160802150749",
+    "mime": "registry:dt/mime#0.0.0+20160316155526",
+    "mocha": "registry:dt/mocha#2.2.5+20160720003353",
+    "morgan": "registry:dt/morgan#1.7.0+20160524142355",
+    "node": "registry:dt/node#6.0.0+20160802155038",
+    "q": "registry:dt/q#0.0.0+20160613154756",
+    "sequelize": "registry:dt/sequelize#3.4.1+20160802154903",
+    "serve-static": "registry:dt/serve-static#0.0.0+20160606155157",
+    "tedious": "registry:dt/tedious#1.8.0+20160316155526",
+    "validator": "registry:dt/validator#4.5.1+20160316155526"
+  }
+}
